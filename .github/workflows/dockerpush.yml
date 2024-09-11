@@ -34,4 +34,4 @@ jobs:
       with:
        context: ./
        push: true
-       tags: kicsipixel/githubaction:latest
+       tags: k0pernikus/php-dev-base:latest
